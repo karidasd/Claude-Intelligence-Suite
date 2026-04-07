@@ -1,0 +1,15 @@
+---
+
+### ⚙️ Φάκελος 04: `Context_Optimization_Protocol.xml`
+Αυτό βοηθάει τον Claude να διαχειρίζεται τεράστια αρχεία χωρίς να "χάνεται".
+
+```xml
+<context_engine>
+  <strategy>Token Efficiency & Needle-in-a-Haystack Optimization</strategy>
+  <instruction>
+    When analyzing multi-file projects:
+    1. Create a <map> of all relevant files.
+    2. Summarize key functions before editing.
+    3. Maintain a "Project State" variable in memory.
+  </instruction>
+</context_engine>
