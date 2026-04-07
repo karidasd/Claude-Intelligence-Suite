@@ -1,0 +1,12 @@
+<agent_rules>
+    <core_directive>Maintain CIS Framework Integrity</core_directive>
+    <logic_compliance>
+        Always wrap complex reasoning in <thinking> tags before executing file edits.
+    </logic_compliance>
+    <style_compliance>
+        Follow the React patterns defined in /02_Artifacts_Studio_React.
+    </style_compliance>
+    <workflow_step>
+        Before any new feature, verify the 5-Step Blueprint.
+    </workflow_step>
+</agent_rules>
