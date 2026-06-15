@@ -24,6 +24,9 @@
 ### 🤖 [05 | Claude Code (Agentic Memory)](./05_Claude_Code_Memory_Systems)
 *Persistent agentic workflows using `CLAUDE.md` memory protocols.*
 
+### 🏆 [06 | Master Prompt Examples](./06_Master_Prompt_Examples)
+*Complete, copy-paste ready "Mega-Prompts" that combine all the above layers into single execution payloads.*
+
 ---
 
 ## 🚀 The CIS Code Generation Blueprint
